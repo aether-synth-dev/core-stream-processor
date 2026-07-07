@@ -2,7 +2,14 @@
 
 [![Node.js CI](https://github.com/aether-synth-dev/core-stream-processor/actions/workflows/ci.yml/badge.svg)](https://github.com/aether-synth-dev/core-stream-processor/actions/workflows/ci.yml)
 
-High-performance, zero-dependency utility for real-time data stream sanitization.
+High-performance, zero-dependency Node.js module for real-time data stream sanitization with integrated telemetry.
+
+## Quick Start
+
+```bash
+npm install
+node examples/demo.js
+```
 
 ## Overview
 

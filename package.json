@@ -1,0 +1,28 @@
+{
+  "name": "core-stream-processor",
+  "version": "1.0.1",
+  "description": "High-performance, zero-dependency Node.js module for real-time data stream sanitization with integrated telemetry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test-suite.js",
+    "demo": "node examples/demo.js"
+  },
+  "keywords": [
+    "stream",
+    "processor",
+    "sanitization",
+    "telemetry",
+    "security",
+    "zero-dependency",
+    "clean-architecture"
+  ],
+  "author": "aether-synth-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aether-synth-dev/core-stream-processor.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
